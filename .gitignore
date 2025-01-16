@@ -1,0 +1,21 @@
+# Web pages:
+**/_build
+**/_autosummary
+
+# Pycharm IDE files
+public
+.idea
+
+# Residual files
+**/*.log
+**/*.sqlite
+
+# Unitests, some personal scripts and corrections must not be pushed
+scripts
+tests
+solutions
+cache
+
+# python
+__pycache__/
+.vscode/
